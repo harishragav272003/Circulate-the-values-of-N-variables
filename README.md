@@ -27,11 +27,11 @@ End of the Program
 #Program to circulate N values.
 #Developed by: HARISH RAGAV S
 #RegisterNumber: 212222110013
-def circulate():
+```def circulate():
    l = eval(input())
    n = int(input())
    result = l[n:] + l[:n]
-   print("After circulating the values are:",result)
+   print("After circulating the values are:",result) ```
 
 
 ## Output:
