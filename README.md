@@ -24,13 +24,12 @@ Print the new list (result) to the console.
 End of the Program
 
 ## Program:
+
+```
 #Program to circulate N values.
-
 #Developed by: HARISH RAGAV S
-
 #RegisterNumber: 212222110013
-
-```def circulate():
+def circulate():
    l = eval(input())
    n = int(input())
    result = l[n:] + l[:n]
@@ -39,7 +38,7 @@ End of the Program
 
 
 ## Output:
-![image](https://user-images.githubusercontent.com/119345345/225222482-230d7a7c-2351-4d95-9eb3-ee16a9c4e0af.png)
+![image](https://user-images.githubusercontent.com/119345345/225814637-0206c77d-cf17-4a0e-a6cf-9e54d71b4f43.png)
 
 
 ## Result:
